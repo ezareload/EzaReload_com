@@ -1,38 +1,38 @@
-
 {
-  "name": "EZARELOAD.COM",
+  "name": "Eza ReLoad",
   "short_name": "EZA RELOAD",
-  "start_url": "https://www.ezareload.com/",
+  "scope": "https://www.ezareload.com",
+  "start_url": "https://www.ezareload.com",
   "display": "standalone",
-  "background_color": "#fafafa",
-  "theme_color": "#ff0000",
-  "description": "Ezareload.com tempat untuk nonton anime, dorama, drakor, movie online subtitle Indonesia yang dapat diakses dari smartphone, laptop, dan PC.",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Tempat Berbagi Informasi",
   "icons": [{
-    "src": "https://4.bp.blogspot.com/-WTXCPXHSpKM/Xlfb82ZlvJI/AAAAAAAAPkc/VYCntiCxhCQF32o-MYamYYmMXq5QgQU5QCNcBGAsYHQ/s48/Logo_ezareload.png",
+    "src": "https://1.bp.blogspot.com/-icSNuLpyjD8/YDTrMPw0oNI/AAAAAAAAR7s/x2eNm8mwUe0EYBQc4CuCt9l5uy1YZcVMACNcBGAsYHQ/s48/favicon-ezareload.jpg",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WTXCPXHSpKM/Xlfb82ZlvJI/AAAAAAAAPkc/VYCntiCxhCQF32o-MYamYYmMXq5QgQU5QCNcBGAsYHQ/s73/Logo_ezareload.png",
+    "src": "https://1.bp.blogspot.com/-icSNuLpyjD8/YDTrMPw0oNI/AAAAAAAAR7s/x2eNm8mwUe0EYBQc4CuCt9l5uy1YZcVMACNcBGAsYHQ/s72/favicon-ezareload.jpg",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WTXCPXHSpKM/Xlfb82ZlvJI/AAAAAAAAPkc/VYCntiCxhCQF32o-MYamYYmMXq5QgQU5QCNcBGAsYHQ/s96/Logo_ezareload.png",
+    "src": "https://1.bp.blogspot.com/-icSNuLpyjD8/YDTrMPw0oNI/AAAAAAAAR7s/x2eNm8mwUe0EYBQc4CuCt9l5uy1YZcVMACNcBGAsYHQ/s96/favicon-ezareload.jpg",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WTXCPXHSpKM/Xlfb82ZlvJI/AAAAAAAAPkc/VYCntiCxhCQF32o-MYamYYmMXq5QgQU5QCNcBGAsYHQ/s144/Logo_ezareload.png",
+    "src": "https://1.bp.blogspot.com/-icSNuLpyjD8/YDTrMPw0oNI/AAAAAAAAR7s/x2eNm8mwUe0EYBQc4CuCt9l5uy1YZcVMACNcBGAsYHQ/s144/favicon-ezareload.jpg",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WTXCPXHSpKM/Xlfb82ZlvJI/AAAAAAAAPkc/VYCntiCxhCQF32o-MYamYYmMXq5QgQU5QCNcBGAsYHQ/s168/Logo_ezareload.png",
+    "src": "https://1.bp.blogspot.com/-icSNuLpyjD8/YDTrMPw0oNI/AAAAAAAAR7s/x2eNm8mwUe0EYBQc4CuCt9l5uy1YZcVMACNcBGAsYHQ/s168/favicon-ezareload.jpg",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WTXCPXHSpKM/Xlfb82ZlvJI/AAAAAAAAPkc/VYCntiCxhCQF32o-MYamYYmMXq5QgQU5QCNcBGAsYHQ/s192/Logo_ezareload.png",
+    "src": "https://1.bp.blogspot.com/-icSNuLpyjD8/YDTrMPw0oNI/AAAAAAAAR7s/x2eNm8mwUe0EYBQc4CuCt9l5uy1YZcVMACNcBGAsYHQ/s192/favicon-ezareload.jpg",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://4.bp.blogspot.com/-WTXCPXHSpKM/Xlfb82ZlvJI/AAAAAAAAPkc/VYCntiCxhCQF32o-MYamYYmMXq5QgQU5QCNcBGAsYHQ/s512/Logo_ezareload.png",
+    "src": "https://1.bp.blogspot.com/-icSNuLpyjD8/YDTrMPw0oNI/AAAAAAAAR7s/x2eNm8mwUe0EYBQc4CuCt9l5uy1YZcVMACNcBGAsYHQ/s512/favicon-ezareload.jpg",
     "sizes": "512x512",
     "type": "image/png"
   }]
